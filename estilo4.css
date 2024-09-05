@@ -1,0 +1,101 @@
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+}
+.R1{
+    background-color: yellow;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 90px;
+    height: 410px;
+    font-size: 40px;
+    font-weight: bold;
+  
+    margin-right: 30px;
+    
+   
+}
+.D1{
+    border: 4px dashed white;
+    padding: 5px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.D2{
+    margin: 5px;
+    border: 5px dashed rgb(255, 0, 0);
+    padding: 5px; 
+    display: flex;
+    width: 250px;
+    height: 250px;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.D3{
+    width: 90%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    border: 4px dashed rgb(253, 253, 253);
+    margin: 5px;
+    padding: 5px; 
+}
+.Ra{
+    background-color: yellow;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    width: 250px;
+    height: 100px;
+    margin-bottom: 20px;
+   
+}
+.Rb{
+    background-color: yellow;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    width: 280px;
+    height: 100px;
+    margin-top: 20px;
+   
+    
+
+}
+.Qa{
+    background-color: rgb(251, 255, 1);
+    width: 85px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+}
+.Qb{
+    background-color: rgb(230, 255, 4);
+    width: 85px;
+    height: 85px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 40px;
+    font-weight: bold;
+    
+
+    
+}

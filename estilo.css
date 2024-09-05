@@ -1,0 +1,87 @@
+.div1{
+    background-color: rgb(255, 0, 0);
+}
+.div2{
+    background-color: rgb(217, 255, 0);
+}
+.div3{
+    background-color: rgb(0, 255, 55);
+}
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse ;
+    justify-content: space-evenly;
+    background-color: rgb(91, 146, 194);
+    align-items: flex-start;
+}
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0; 
+}
+.D1{
+    border: 4px dashed white;
+    width: 300px;
+    height: 350px;
+    flex-wrap: wrap;
+    padding: 10px;
+    margin-right: 20px;
+    display: flex;
+}
+.D2{
+    width: 100%;
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    border: 6px dashed rgb(255, 0, 0);
+}
+.Qa{
+    background-color: rgb(251, 255, 1);
+    width: 45%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.Qb{
+    background-color: rgb(230, 255, 4);
+    width: 45%;
+    height: 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+}
+.Q2{
+    background-color: yellow;
+    width: 400px;
+    height: 200px;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+}
+.R{
+    display: flex;
+    background-color: yellow;
+    justify-content: center;
+    width: 110px;
+    height: 370px;
+    font-size: 24px;
+    font-weight: bold;
+    align-items: center;
+    
+    
+    
+}
